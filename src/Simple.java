@@ -5,7 +5,7 @@ public class Simple {
 	{
 		if(args.length==0)
 		{
-			throw new IllegalArgumentException("input is not given");
+			throw new IllegalArgumentException("input is not given"); //simple exception
 		}
 	}
 }
